@@ -62,7 +62,7 @@ and select a resolution that suits you best. I always choose the maximum resolut
 `1920x1080`
 ![image](https://github.com/MuhammadRaheelNaseem/Raspberry-Pi-Screen-Not-Showing/assets/63813881/ad5154c9-e45e-49f4-85bf-7af6f4890367)
 
-Click on your ‘Tab’ and then ‘Enter’ key to select the choosen resolution.
+Click on your ‘Tab’ and then the ‘Enter’ key to select the chosen resolution.
 Click on ‘OK’ and then ‘Finish’ to save your settings.
 ![image](https://github.com/MuhammadRaheelNaseem/Raspberry-Pi-Screen-Not-Showing/assets/63813881/cca7e22c-2cb9-4fd8-a53a-efdce9a703b8)
 ![image](https://github.com/MuhammadRaheelNaseem/Raspberry-Pi-Screen-Not-Showing/assets/63813881/bd5bead3-6b39-4710-ad0f-32598c8b6165)
@@ -73,7 +73,7 @@ Finally, enter :
 ![image](https://github.com/MuhammadRaheelNaseem/Raspberry-Pi-Screen-Not-Showing/assets/63813881/84ef46d5-524e-4b95-81a7-3211f840bdc3)
 
 Reconnect remotely with your VNC viewer.
-That’s it ! Now you can establish a remote connection to your Raspberry Pi again. And if you executed previous steps carefully, the black screen with ‘Cannot currently show the desktop’ won’t appear any more.
+![image](https://github.com/MuhammadRaheelNaseem/Raspberry-Pi-Screen-Not-Showing/assets/63813881/65b9979e-2cd1-4394-926f-f84de56a6572)
 
 
 
